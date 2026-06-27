@@ -44,7 +44,8 @@ This project simulates an enterprise Active Directory environment using Windows 
 ---
 ### Screenshots
 ### Active Directory Users
-![AD Users](screenshots/ADIMAGE1.jpeg)
+[AD Users](screenshots/ADIMAGE1.jpeg)
+[AD Entra Users](screenshots/ADIMAGE2.jpeg)
 
 ---
 
@@ -68,4 +69,4 @@ This project simulates an enterprise Active Directory environment using Windows 
 
 
 
--->
+
