@@ -42,6 +42,9 @@ This project simulates an enterprise Active Directory environment using Windows 
 - Verified login with domain credentials
 
 ---
+### Screenshots
+### Active Directory Users
+![AD Users](screenshots/ADIMAGE1.jpeg)
 
 ---
 
