@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian Nwachukwu <br/> https://github.com/nwacbrian-lab/nwacbrian-lab/edit/main/README.md
+<h1>Hi, I'm Brian Nwachukwu <br/> 
 
   <h2>👨‍💻 IAM & Cyber Projects:</h2>
 
