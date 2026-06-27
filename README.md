@@ -2,7 +2,7 @@
 
   <h2>👨‍💻 IAM & Cyber Projects:</h2>
 
- [Active Derectory Labs]
+ [Active Directory Labs]
  # Active Directory Home Lab
 
 ## Overview
